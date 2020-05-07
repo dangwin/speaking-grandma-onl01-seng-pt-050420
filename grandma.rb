@@ -2,7 +2,7 @@
 
 def speak_to_grandma(phrase)
   
-  if speak_to_grandma()
+  if sp
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
